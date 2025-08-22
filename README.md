@@ -1,2 +1,5 @@
 # atividade_python_py
-teste
+# No terminal
+mkdir tabuada_python
+cd tabuada_python
+git init
